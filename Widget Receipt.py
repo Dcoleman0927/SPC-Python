@@ -1,4 +1,4 @@
-# program2_2.py
+# Widget_Receipt.py
 # Collaborators: None.
 
 # Write a program that has the user purchase an item at a base price

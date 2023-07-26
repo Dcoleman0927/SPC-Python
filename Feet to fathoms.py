@@ -1,5 +1,4 @@
 # program2_1.py
-# Denzel Coleman SPC ID# 2436299
 # Collaborators: None.
 
 # Write a program that converts feet to fathoms.

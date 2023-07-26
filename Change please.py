@@ -1,4 +1,4 @@
-# program2_2.py
+# Change_please.py
 # Collaborators: None.
 
 # Write a program that prompts the user to enter a dollar amount

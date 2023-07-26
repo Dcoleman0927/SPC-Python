@@ -1,4 +1,4 @@
-# program2_1.py
+# Feet_to_fathoms.py
 # Collaborators: None.
 
 # Write a program that converts feet to fathoms.
